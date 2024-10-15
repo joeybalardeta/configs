@@ -4,5 +4,4 @@ Some of my config files for various programs.
 ## Other Info
  - Files Pulled from:
    - MacOS
-   - Linux (Ubuntu, Arch)
-
+   - Linux (Arch, Ubuntu)
